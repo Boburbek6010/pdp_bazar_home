@@ -39,13 +39,13 @@ List<Map<String, dynamic>>productsMock = [
   //Nike
   {
     'id': "01",
-    'title': "Nike",
+    'title': "Nike G-wks khun",
     'price': 1200,
     'categoryId': "001",
     'images': [
       "https://img2.goodfon.com/original/5323x5150/4/66/apples-splash-water-drops.jpg",
-      "https://static.wikia.nocookie.net/its-a-random-world/images/2/2b/Apple.jpg/revision/latest?cb=20190904001013",
-      "https://http2.mlstatic.com/manzana-granny-smith-arbol-manzana-verde-injertada-170-m-D_NQ_NP_739125-MLM25385549418_022017-F.jpg",
+      "https://www.pngmart.com/files/1/Nike-Shoes.png",
+      "https://www.pngmart.com/files/1/Nike-Shoes-Transparent-Background.png",
     ],
     'createdDate': DateTime(2022, 8, 21, 14).toString(),
     'size': "42",

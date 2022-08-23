@@ -197,7 +197,12 @@ class _HomePageState extends State<HomePage> {
           ),
           Column(
             children: [
-              ProductView(product: Product.fromJson(productsMock[0]))
+              ProductView(product: Product.fromJson(productsMock[0])),
+              ProductView(product: Product.fromJson(productsMock[0])),
+              ProductView(product: Product.fromJson(productsMock[0])),
+              ProductView(product: Product.fromJson(productsMock[0])),
+              ProductView(product: Product.fromJson(productsMock[0])),
+              ProductView(product: Product.fromJson(productsMock[0])),
             ],
           )
         ],
